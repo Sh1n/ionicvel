@@ -73,7 +73,7 @@ return [
     |
     */
 
-    'user' => \App\Ionicvel\Auth\User::class
+    'user' => \App\Ionicvel\Auth\User::class,
 
     /*
     |--------------------------------------------------------------------------
